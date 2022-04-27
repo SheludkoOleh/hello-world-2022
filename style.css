@@ -1,0 +1,155 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+header {
+  display: inline-block;
+  width: 100%;
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+
+.emailid  {
+  display: inline-block;
+  width: 15%;
+}
+.socialid  {
+  display: inline-block;
+  width: 50%;
+}
+
+.socialid li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.phone {
+  display: inline-block;
+  width: 30%;
+}
+
+.phone li {
+  display: inline-block;
+}
+
+  /* Navi */
+  
+nav {
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    background-color: #FFFFFF;
+  
+}
+
+ .logo {
+ float: left;
+
+}
+
+.chapter  {
+   text-align: right;
+   margin: 22px 0px;
+   height: 18px;
+  }
+  
+nav ul {
+ display: inline-block;
+ margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  float: right;
+  padding-left: 2rem;
+}
+
+  /* banner */
+
+main {
+  text-align: center;
+  position: relative;
+  width: 100%;
+  
+}
+
+main h1 {
+  color: white;
+  font-size: 60px;
+  font-weight: 600;
+  margin-top: 0px;
+  padding-top: 80px;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+}
+
+main p {
+    display: inline-block;
+    font-weight: 500;
+    line-height: 1.4;
+    color: #fff;
+    max-width: 622px;
+    font-size: 20px;
+    margin-bottom: 60px;
+ 
+}
+.jumbotron {
+  height: 800px;
+  background-image: url("https://fabryka.cc/images/banners/home_banner.webp");
+  background-size: cover;
+}
+
+.jumbotron img {
+  height: 32px;
+}
+
+.supporting {
+  display: inline-block;
+  max-width: 900px;
+  padding-left: 25%;
+  padding-right: 25%;
+  
+}
+
+.col {
+  color: white;
+}
+
+.col h2 {
+   display: inline-block;
+}
+
+.btn-main {
+  background: #01AFF9;
+  color: white;
+  padding: 25px;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  line-height: 70px;
+  text-decoration: none;
+}
+
+.pattern .conteiner .rt-block {
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+
+}
+
+.rt-grid-12 rt-alpha rt-omega {
+
+
+.pattern {
+  background: #01AFF9;
+  }
+  
+.row {
+      display: inline-block;
+      
+  }
